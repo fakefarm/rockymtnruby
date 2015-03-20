@@ -1,0 +1,4 @@
+- http://rockymtnruby.com/
+- http://lab.hakim.se/reveal-js/#/
+- http://my.thirstyhead.com/talks/html5_slides
+- http://my.thirstyhead.com/talk/html5_slides/dist/#/17
