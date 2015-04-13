@@ -1,5 +1,24 @@
 Introducing the ARM Stack
 =========================
+## Description
+
+## Abstract
+
+## What Do I Get Out of It?
+This session will show <x> workflows, tools, and techniques to improve overall application design.
+
+## Prerequisites
+Prior knowledge of Ruby on Rails and JavaScript. Familiarity with AngularJS.
+
+## Required Installs
+Before coming to this session, please install the following:
+* [Ruby on Rails (RorR)](https://github.com/tmarrs/json-at-work/blob/master/appendix-a/Appendix-A-README.md#installing-ruby-on-rails-ror)
+* [Middleman](https://middlemanapp.com/basics/install/)
+
+## Session Length
+40 minutes
+
+## Notes
 - AngularJS, Middleman, Rails
 - Separation of concerns between front and back end
 
