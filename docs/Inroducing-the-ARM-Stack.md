@@ -1,5 +1,8 @@
 Introducing the ARM Stack
 =========================
+
+__Deprecated__
+
 ## Description
 
 ## Abstract
