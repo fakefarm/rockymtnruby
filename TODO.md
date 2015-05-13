@@ -5,5 +5,5 @@
 
 ## Complete
 
-- ~~move basecamp notes over here `@dave`~~
+- ~~move basecamp notes over here `@dave`~
 - ~~setup repo `@dave`~~
