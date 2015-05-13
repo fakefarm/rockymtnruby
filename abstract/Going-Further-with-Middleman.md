@@ -1,7 +1,7 @@
 Going Further with Middleman
 ============================
 ## Description
-As a Ruby on Rails developer, you're familiar with building full-stack application development. You've used Rails to develop MVC-based web apps, but how does that fit in with API-based development? We've seen how to use Rails as a JSON API back-end, but how could we use the same great tools we’ve been using in Rails to build front end single page JavaScript apps? In this talk, we'll show how Middleman can help.
+As a Ruby on Rails developer, you're familiar with building full-stack application development. You've used Rails to develop MVC-based web apps, but how does that fit in with API-based development across multiple teams? We've seen how to use Rails as a JSON API back-end, but how could we use the same great tools we’ve been using in Rails to build front end single page JavaScript apps? In this talk, we'll show how Middleman can help.
 
 
 ## Abstract
