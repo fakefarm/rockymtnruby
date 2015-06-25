@@ -6,7 +6,7 @@
 
 - Middleman is a site generator that compliments rails development. If you know rails, you basically already know middleman. It's a quick learning curve and it solves some problems in a faster and lighter way than rails can. So let's dive in.
 
-## Componnents
+## Plain-vanilla static web application.
 - There are 4 components about middleman I'd like to touch on before I demo how to use middleman
 
 ### Rails-y stuff
@@ -21,20 +21,18 @@
 - custom extensions
 - lots of great environment data in 'data' and 'page' type existing helper methods
 
-### Static
-- static enables caching, and thus is faster than loading from a database
-
 ### Hosting
 - you can host for free on github by just simply pushing to a branch called `gh-pages`
 - there's a deploy gem so you just type `middleman deploy`
+
+### Static
+- static enables caching, and thus is faster than loading from a database
 
 ### blogging
 - middleman comes with a blogging engine so you can manage blogs there. 
 (Not sure if I should do any comparisons with jekyl..)
 
-## Let's build a site
-
-### A Simple site
+### Plain-vanilla static web application.
 - okay let's put this to work. 
 - Rather than type it out, I'm going to simply paste all this code from gists;
 
@@ -44,14 +42,20 @@
         config.rb
         food.yml
 
-### A site that Collaborates with services
+## AngularJS application with static data.
 - a static site doesn't mean that it lacks live data. So, we can use any JavaScript Framework to do this. Let's use Angular to add some data about local Pizza shops in the area
 
         angular/js directory
         new_idex.slim
 
+## AngularJS front-end with stub API.
 (Is this the time to talk about the benefits of this process?)
-(When do we add comments about placeholder data, reduced coupling, developing at own pace)
+- placeholder data,
+- reduced coupling,
+- developing at own pace
+
+## AngularJS application using a real API.
+
 
 
 
